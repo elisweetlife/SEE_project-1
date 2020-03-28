@@ -9,3 +9,5 @@ print("deleted old line")
 print("added new line")
 
 >>>>>>> 587f4695fe7f309003a115180dff08099aed1896
+
+print("test 2 - swarna")
